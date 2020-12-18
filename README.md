@@ -1,3 +1,5 @@
+![website](Banners.gif)
+
 ### Hi there 👋🏽
 I'm Mark, nice to meet you! If you would like to see more of my work visit my portfolio
 
