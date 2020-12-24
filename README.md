@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 ### Hi there 👋🏽
-I'm Mark a Full Stack Developer originally from New York City, nice to meet you! If you would like to see more of my work visit my <a href="https://eloquent-rosalind-c49ddd.netlify.app/">Portfolio here</a>
+I'm Mark a Full Stack Developer originally from New York City, nice to meet you! If you would like to see more of my work visit my <a href="https://eloquent-rosalind-c49ddd.netlify.app/">Portfolio</a>
 
 - 🌱 I’m currently learning: Python and C++
 - 📫 How to reach me: Mrivera1991@gmail.com
