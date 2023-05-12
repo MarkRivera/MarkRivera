@@ -7,7 +7,7 @@ Developer in love with Typescript.
 Mark is a Typescript Developer with a passion for creating technologies that help those in need the most. He is a full time software engineer with an eye for performant programs and a love for the beach.
 
 * 🌍  I'm based in New York City
-* 🖥️  See my [Portfolio](http://github.com/MarkRivera) here
+* 🖥️  See my [Portfolio](https://www.markrivera.dev) here
 * ✉️  You can contact me at [mrivera1991@gmail.com](mailto:mrivera1991@gmail.com)
 * 🧠  I'm learning Rust and Functional Programming
 * 🤝  I'm open to collaborating on anything inclusive, supportive and world changing
